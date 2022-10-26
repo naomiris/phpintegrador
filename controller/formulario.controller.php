@@ -8,4 +8,4 @@ $cuerpo_mail = "Nombre:".$name_formulario."\r\n"."Asunto:".$asunto_formulario."\
 
 mail("naomiirisd@gmail.com", "Mensaje de Pizza Rappi", $cuerpo_mail);
 
-header("Location :Views/contacto.php?e=ok");
+header("Location :contacto.php?e=ok");

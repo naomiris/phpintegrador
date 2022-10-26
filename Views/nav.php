@@ -18,13 +18,13 @@
                     <img src="/Views//assets/logo.png" alt="" width="100px" height="100px">
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" aria-current="page" href="contacto.php">Contact</a>
+                    <a class="nav-link text-light" href="home.php">Inicio</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link text-light" aria-current="page" href="productos.php">Productos</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-light" href="home.php">Home</a>
+                    <a class="nav-link text-light" aria-current="page" href="contacto.php">Contacto</a>
                 </li>
             </ul>
             <hr>
